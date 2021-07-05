@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @otaviolscorrea
 - 👀 I’m interested in learn programming
-- 🌱 I’m currently learning HTML5/CSS3
+- 🌱 I’m currently learning JS
 - 📫 How to reach me telegram otaviolscorrea
 
 <!---
